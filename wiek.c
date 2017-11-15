@@ -24,7 +24,7 @@ double ilosc_sek_w_roku=3.156e7;
 					jest rozna od zera*/
 	twoj_wiek_w_sekundach = wiek*3.156e7;
 
-	printf("Twoj wiek w sekundach to:%d", twoj_wiek_w_sekundach=wiek*
+	printf("Twoj wiek w sekundach to:%d\n", twoj_wiek_w_sekundach=wiek*
 	ilosc_sek_w_roku);		//funkcja wypisuje na ekranie tresc miedzy "" 
 	return 0;			//instrukcja zakonczenia programu
 }
