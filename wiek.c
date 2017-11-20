@@ -1,7 +1,7 @@
 	/*Program przelicza lata na sekundy
 	wykonal Przemeyslaw Jezutek
 	Szczytno 2017*/
-
+trututury
 
 #include <stdio.h>	//wloczenie bibliotek obslugujacych poszczegulne funkcje
 #include <stdlib.h>
